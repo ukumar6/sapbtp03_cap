@@ -1,0 +1,8 @@
+### Get the service document
+http://localhost:4004/odata/v4/CatalogService
+
+### Get the service metadata
+http://localhost:4004/odata/v4/CatalogService/$metadata
+
+### Get all employee data
+http://localhost:4004/odata/v4/CatalogService/EmployeeSet
